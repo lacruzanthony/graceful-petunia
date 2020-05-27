@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/admin
-webhook_url: __FORESTRY_WEBHOOK_URL__
+webhook_url: https://api.stackbit.com/project/5ecea938cd990c0014799f4d/webhook/forestry
 sections:
   - type: document
     label: Site Configuration
